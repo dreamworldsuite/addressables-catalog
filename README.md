@@ -2,10 +2,10 @@
 
 folder: StandaloneWindows64
 
-catalog_1.hash -> 65766e82ba7306a32238f110d64a69d2
-catalog_1.json -> v1.0.5/StandaloneWindows64/remote_assets_torri_assets_all_a8de1f33fe9e29d6c771cb6988da72a8.bundle
-remote_assets_torri_assets_all_a8de1f33fe9e29d6c771cb6988da72a8.bundle
+catalog_1.hash -> 4d30b96d3fcfb3e0dec85ec644cb3655 <br>
+catalog_1.json -> v1.0.5/StandaloneWindows64/remote_assets_cavalli_assets_all_6e47bff91ff4a5b8835c0b4c16cb0d56.bundle <br>
+remote_assets_cavalli_assets_all_6e47bff91ff4a5b8835c0b4c16cb0d56.bundle
 
 Tags:
 
-v0.1.5 -> 21 feb 26
+v1.0.6 -> 22 feb 26
